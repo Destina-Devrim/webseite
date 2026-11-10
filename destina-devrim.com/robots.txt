@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://destina-devrim.com/sitemap.xml
